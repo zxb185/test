@@ -1,0 +1,11 @@
+{
+  "name": "hw",
+  "version": "1.0.1",
+  "description": "test",
+  "main": "hellowolrd.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "",
+  "license": "ISC"
+}
